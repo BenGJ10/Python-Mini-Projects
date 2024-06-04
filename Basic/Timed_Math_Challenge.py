@@ -1,5 +1,5 @@
 ''' This is a Python program showcasing Timed Math problems, if you don't know 
-answer to any specific question, type skip to jump to next question. '''
+answer to any specific question, type skip to jump to next question.. '''
 
 import random 
 import time
